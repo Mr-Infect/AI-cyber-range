@@ -295,8 +295,8 @@ Feel free to use, modify, and distribute — just give proper credit to [Mr-Infe
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00FFFF&height=120&section=footer&text=Created%20with%20❤️%20by%20Mr-Infect&fontSize=20&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00FFFF&height=120&section=footer&text=Created%20with%20%20by%20Mr-Infect&fontSize=20&fontColor=FFFFFF"/>
 </p>
-```
+
 
 
